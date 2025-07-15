@@ -1,12 +1,14 @@
 # 🎭 Sentiment Analysis App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis-app-iusftka3xxnktmdsyq5foy.streamlit.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/gmailhj/sentiment-analysis-app)
 
 A comprehensive sentiment analysis application built with Streamlit that supports multiple types of input: text, images, and movie analysis using OMDB API.
 
 ## 🚀 Live Demo
 
-**[Try the app live here!](https://your-app-name.streamlit.app)** (Replace with your actual Streamlit Cloud URL)
+**[🔗 Try the app live here!](https://sentiment-analysis-app-iusftka3xxnktmdsyq5foy.streamlit.app/)** - Your app is now live and ready to use!
 
 ## 📸 Screenshots
 

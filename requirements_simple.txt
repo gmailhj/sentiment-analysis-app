@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+textblob
+text2emotion
+plotly
+pandas
+pillow
+opencv-python
+numpy
+requests
+nltk
